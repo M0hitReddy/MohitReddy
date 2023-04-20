@@ -1,7 +1,7 @@
 ## about me
 
 Hi, I'm Mohit.
-| S.no.|   Languages   |
+| S.no.|   Skills      |
 |-----:|---------------|
 |     1|   java        |
 |     2|   C           |
